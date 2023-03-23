@@ -1,7 +1,11 @@
 ---
 title: "Homework 4"
 author: "Lisa Levinson"
-format: html
+format: 
+  html:
+    embed-resources: true
 ---
 
 Deleted that stuff. 
+
+This is changed.
